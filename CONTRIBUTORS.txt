@@ -18,3 +18,5 @@
 N: <MagicType>
 E: <magictypeinfo@gmail.com>
 W: <http://magictype.in/>
+
+Yanone <post@yanone.de> Mastering
