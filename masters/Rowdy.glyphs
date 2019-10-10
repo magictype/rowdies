@@ -211,6 +211,30 @@ value = 680;
 {
 name = winAscent;
 value = 1228;
+},
+{
+name = hheaAscender;
+value = 997;
+},
+{
+name = hheaDescender;
+value = -245;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 997;
+},
+{
+name = typoDescender;
+value = -245;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 descender = -244;
@@ -230,6 +254,30 @@ value = 680;
 {
 name = winAscent;
 value = 1228;
+},
+{
+name = hheaAscender;
+value = 997;
+},
+{
+name = hheaDescender;
+value = -245;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 997;
+},
+{
+name = typoDescender;
+value = -245;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 descender = -244;
@@ -249,6 +297,30 @@ value = 680;
 {
 name = winAscent;
 value = 1228;
+},
+{
+name = hheaAscender;
+value = 997;
+},
+{
+name = hheaDescender;
+value = -245;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 997;
+},
+{
+name = typoDescender;
+value = -245;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 descender = -244;
