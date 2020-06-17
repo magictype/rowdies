@@ -1,6 +1,6 @@
-# Rowdy
+# Rowdies
 
-Rowdy is a Latin display typeface inspired by the rough & tough Indian action cinema. Designed by Jaikishan Patel for Action, Drama, Thriller, Noir, Crime, Adventure genres.
+Rowdies is a Latin display typeface inspired by the rough & tough Indian action cinema. Designed by Jaikishan Patel for Action, Drama, Thriller, Noir, Crime, Adventure genres.
 The font family includes 3 weights - Light (Semi-Condensed): designed to set supporting body-text with optimal glyphs width. Regular: designed for the large headers & titles. Bold: designed for extremely heavyweight title designs.
 
 ![magictype_home_rowdy_pro](https://user-images.githubusercontent.com/42322651/44945408-79205900-ae06-11e8-8ec7-97e1c8ed9b7b.jpg)
