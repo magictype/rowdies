@@ -10,4 +10,4 @@ The action hero that stands out from the crowd. Typically belongs to a financial
 Read more at: http://magictype.in/rowdy
 
 ## Licence
-Red Rose Pro is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/rowdy/blob/master/OFL.txt)
+This typeface is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/rowdy/blob/master/OFL.txt)
