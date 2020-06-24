@@ -1,10 +1,10 @@
 {
-.appVersion = "1272";
+.appVersion = "1286";
 DisplayStrings = (
 "ROWDIES\012Rowdies\012\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789\012¶&/a.alt/fi/fl/f_f/f_f_i/f_f_l/f_ij/f_f_ij \012¦«/guilsinglleft +/guilsinglright »=/minus ×÷/radical <//>/backslash %.,?!¿¡/ellipsis \012ÁÆ/OE ÇÐÞØ/Schwa/Germandbls/Nhookleft/Eng \012äæ/oe çðþoø/schwa/idotless/jdotless/kgreenlandic ß/nhookleft/eng µ/mu \012§/.notdef |¦/dagger/daggerdbl [{()}] @/circle ©'*/trademark ®\012/lozenge/summation/product/integral/Delta/pi/Omega/partialdiff/literSign \012/divisionslash/fraction  ¾-/endash/emdash _¬\012$¢/florin/rupeeIndian ¥£/euro ¤/lira/naira/franc/won/peso/cedi/guarani/colonmonetary/ruble/peseta/dong/manat/kip/liraTurkish \012\012\"':;^_`~¨©ª¬®¯°±²³´µ¶·¸¹º/four.dnom ¼½¾¿\012ÀÁÂÃÄÅÆÈÉËÌÍÎÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéê/acutecomb íî ï ðñòóôõöøùúûüýþ/ydieresis/idotless/circumflex/ring/tilde/quoteleft/quoteright/quotesinglbase/quotedblleft/quotedblright/quotedblbase  /bullet/ellipsis \012\012THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\012the quick brown fox jumps over the lazy dog\012\012Spacing\012HOVK onvai\012nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012HTHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH0102030405060708090\012",
 "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\012the quick brown fox jumps over the lazy dog\012Spacing\012nanbncnAyenfngtnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\0120102030405060708090\012lower case//lower case\012aufkauf aufhalt aufbleib\012ver/fl ixt auflassen \012ho/f_f e auffassen\012/fi le aufißt raufjagen f/idotless ne\012auf/fi nden Tief/fl ieger\012Sto/f_f los Mu/f_f on Sto/f_f igel O/f_f zier\012Ra/f_f band Tu/f_f höhle Su/f_f kopp \012führen fo/dieresiscomb öfordern fähre\012wegjagen Bargfeld\012kyrie afro arte axe luvwärts\012Gevatter wann \012ever gewettet severe\012davon gewonnen down\012wichtig recken\012ndn/dcroat hijo/dcaron h\012/lcaron l /lcaron o dl/lslash ijijVersal//Kleinbuchstaben\012Farbe Fest Firn Fjord Font\012Frau Fuß Fähre Förde Füße\012Rest Rohr Röhre Rymer\012Test Tod Tauf Tim Tja Turm\012Traum Tsara Twist Tyrol\012Tüte Töten Täter TéTêTèVeste Vogel VéVêVèVater Vijf Vlut Vulkan\012Vytautas Vroni Väter Vögel Vs Ws Vz Wz\012Weste Wolf Wüste Wörpe Wärter Waage Wiege Wlasta\012Wurst Wyhl Wrasen\012Yeats Yoni auf Yqem Yn\012Yak Ybbs Yggdrasil Yps\012Ysop Ytong Yuma\012Versal//Versal\012ATK AVI AWL AYN LTK\012LVI LWL LYN /Lcaron V /Lcaron TH\012RTK TVI RWL RYN\012TABULA VATER WASSER\012YAKUZA FABEL PAPST\012UNÐE H/Dcroat \012letter//punctuation\012Ich rufe: also komm; danke\012Somit: haben wir; hinauf: das\012Er will? Ich soll! Er kann\012hinauf! herauf? Su/f_f ? Ka/f_f !\012¿Spanisch? ¡Natürlich!\012was?! wie!? was!! wie??\012Wer kann, kann. Wer, der.\012Sauf, rauf. Su/f_f , Ka/f_f . Sag, sag.\012luv. law. my. luv, law, my,\012(DAT) (fünf) (young) (/fl u/f_f )\012(lall) (pas cinq) (gaz) (§)\012(jagen) (Jedermann)\012[greif] [jung] [JUT] [hohl]\012reif/quotedblleft  ruf/quoteleft  seif/quotedblleft  auf*  ho/f_f/quotedblleft \012T. S. Eliot L., W. Dupont\012V. K. Smith P. A. Meier\012A. Y. Jones F. R. Miller\012X. ä. Schulze\012quotation mark\012/guilsinglleft/guilsinglright «»/quotedblbase/quotedblleft/quotedblright/quotesinglbase/quoteleft/quoteright \012«habe recht» «die»\012»Wir« »Tim« »Viel« »Ybbs«\012«Wir» «Tim» «Viel» «Ybbs»\012»OUT« »MIV« »JAW« »AY«\012«OUT» «MIV» «JAW» «AY»\012/guilsinglright OUT/guilsinglleft  /guilsinglright MIV/guilsinglleft  /guilsinglright JAW/guilsinglleft  /guilsinglright AY/guilsinglleft \012/guilsinglleft OUT/guilsinglright  /guilsinglleft MIV/guilsinglright  /guilsinglleft JAW/guilsinglright  /guilsinglleft AY/guilsinglright \012/quotesinglbase ja/quoteleft  /quotesinglbase Ja/quoteleft  /quotedblbase ja/quotedblleft  /quotedblbase Ja/quotedblleft  /quoteright/quotesinglbase ga/quoteleft   /quotedblbase ga/quotedblleft \012/quotedblbase Tag/quotedblleft  /quotedblbase Vau/quotedblleft  /quotedblbase Wal/quotedblleft  /quotedblbase Yep/quotedblleft \012/quotesinglbase Tag/quoteleft  /quotesinglbase Vau/quoteleft  /quotesinglbase Wal/quoteleft  /quotesinglbase Yep/quoteleft \012/quotedblleft Bus/quotedblright  /quotedblleft Van/quotedblright  /quotedblleft Jon/quotedblright  /quotedblleft lone/quotedblright  /quotedblleft Al/quotedblright \012/quoteleft Bus/quotedblleft  /quoteleft Van/quotedblleft  /quoteleft Jon/quotedblleft  /quoteright/quoteleft lone/quotedblleft  /quoteleft Al/quotedblleft \012»/endash  bei /endash « »/emdash  und /emdash «/guilsinglright/endash  bei /endash/guilsinglleft  /guilsinglright/emdash  und /emdash/guilsinglleft \012«/endash  bei /endash » «/emdash  und /emdash »/guilsinglleft/endash  bei /endash/guilsinglright  /guilsinglleft/emdash  und /emdash/guilsinglright \012punctuation mark\012sic (!) ..., nun (?) ... da\012hinauf ...,; dahin ...:\012hinauf ...! hin ...? Toll/quotedblleft , leg/quotedblleft .\012nun (...) und ([...] sein\012»sie«. »das«, »an«; »ich«:\012«sie». «das», «an»; «ich»:\012»sie.« »das,« »an!« »ich?«\012«sie.» «das,» «an!» «ich?»\012/guilsinglright sie/guilsinglleft . /guilsinglright da/guilsinglleft , /guilsinglright an/guilsinglleft ; /guilsinglright ich/guilsinglleft : \012/guilsinglleft sie/guilsinglright . /guilsinglleft das/guilsinglright , /guilsinglleft an/guilsinglright ,; /guilsinglleft ich/guilsinglright :\012/guilsinglright sie./guilsinglleft  /guilsinglright das,/guilsinglleft  /guilsinglright an!/guilsinglleft  /guilsinglright ich?/guilsinglleft \012/guilsinglleft sie./guilsinglright  /guilsinglleft das,/guilsinglright  /guilsinglleft an!/guilsinglright  /guilsinglleft ich?/guilsinglright \012Mir!, das?, Ich!: Sie?:\012Mir!; das?; (»sie«) (/guilsinglright sie/guilsinglleft )\012nun /endash , hier /endash .60 nun /endash : hier /endash ;\012Eil-Tat-Van-Wal-Alk-\012auf 48/endash 67 und 25/emdash 37 von\012if/endash then well/emdash sure\012USA//Kanada SWF//Abend\012Gauß//Ohm 41//56 den//die\012auf//fall den//im den//ärger\012da//leider auf//aber I//I\012etwa 50% haben 37° im\012£50 und ¥20 sind $30 und /euro 60\012den §235 sowie #35 \0124mal Seite 3f und 12/f_f .\012Der §45a in den 20ern\012figures\01200102030405060708090\01210112131415161718191\01220212232425262728292\01230313233435363738393\01240414243445464748494\01250515253545565758595\01260616263646566768696\01270717273747576778797\01280818283848586878898\01290919293949596979899\012.0.0.1.1.2.2.3.3.4.4.5.5.6.6.7.7.8.8.9.9.\012,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,\012:0:0:1:1:2:2:3:3:4:4:5:5:6:6:7:7:8:8:9:9:\012;0;0;1;1;2;2;3;3;4;4;5;5;6;6;7;7;8;8;9;9;\012von 18:30 bis 20.:15 Uhr\012um 1995 die 28184 und\012und 8.8 und 8,8 da 8./endash 8.\012da 27. es 38. an 87, in 68, 674\012(96) (3) (5) (7) [96] [3 [5 [7\0122+3-4÷5-6±/greaterequal/lessequal ><\012(c) Friedrich Forssman",
-"AxoxcTXOXOXOXOXOXO\012\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\012AOACADAGATAUAVAWAXAYA\012GAGBGCGDGJGKGLGOGPGQGRGSGTGUGVGWGXGYG\012OAOBOCODOGOKOLOOOPOQOROSOTOUOVOWOXOYOZO\012TOTQTCTDTGTATJT\012VOVQVCVDVGVAVJVKVLVMVNVPVRVSVTVUVVVWVXVYVZV\012WOWQWCWDWGWAWJWKWLWMWNWPWRWSWTWWWXWYWZW\012XOXQXCXDXGXAXJXKXLXMXNXPXRXSXTXUXVXWXXXYXZX\012YOYQYCYDYGYAYJYKYLYMYNYPYRYSYTYUYVYWYXYYYZY\012SOSQSCSDSGASJSXSVSWSY\012\012PA PO PC PG \012LO LC LG LS LU  LA LS LT LV LW LX LY \012RO RC RG RS RU RA RT RV RW RX RY\012KO KC KG KS KU KA KT KV KW KX KY\012\012nha/a.alt nbncnqdnenfngtnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012oaobocodoeofogodohoiojokolomonooopoqorosotouovowoxoyozo\012eaebecedeeefegeheiejekelemeneoepeqereseteuevewexeyeze\012fafbffofcfdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzf\012sasbscsdsesfsgshsisjskslsmsnsospsqsrssstsusvswsxsyszs\012vavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvvwvxvyvzv\012wawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwvwwwxwywzw\012xaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxxyxzx\012\012ka kc kd ke kj ko kq ks ku \012ra rc rd re rj ro rq rs ru\012\012Po Pc Pe Pd Pq Pn Pm Pa Pj Pp Pr Ps Pt Pu Pv Pw Px Py Pz\012Lo Lc Le Ld Lq Ln Lm La Lj Lp Lr Ls Lt Lu Lv Lw Lx Ly Lz\012Ko Kc Ke Kd Kq Kn Km Ka Kj Kp Kr Ks Kt Ku Kv Kw Kx Ky Kz\012Ro Rc Re Rd Rq Rn Rm Ra Rj Rp Rr Rs Rt Ru Rv Rw Rx Ry Rz\012To Tc Te Td Tq Tg Tn Tm Ta Tj Tp Tr Ts Tt Tu Tv Tw Tx Ty Tz\012Xo Xc Xe Xd Xq Xg Xn Xm Xa Xj Xp Xr Xs Xt Xu Xv Xw Xx Xy Xz\012Yo Yc Ye Yd Yq Yg Yn Ym Ya Yj Yp Yr Ys Yt Yu Yv Yw Yx Yy Yz\012Vo Vc Ve Vd Vq Vg Vn Vm Va Vj Vp Vr Vs Vt Vu Vv Vw Vx Vy Vz\012Wo Wc We Wd Wq Wg Wn Wm Wa Wj Wp Wr Ws Wt Wu Wv Ww Wx Wy Wz",
-"¡",
+"AxoxcTXOXOXOXOXOXO\012\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\012AOACADAGATAUAVAWAXAYA\012GAGBGCGDGJGKGLGOGPGQGRGSGTGUGVGWGXGYG\012OAOBOCODOGOKOLOOOPOQOROSOTOUOVOWOXOYOZO\012TOTQTCTDTGTATJT\012VOVQVCVDVGVAVJVKVLVMVNVPVRVSVTVUVVVWVXVYVZV\012WOWQWCWDWGWAWJWKWLWMWNWPWRWSWTWWWXWYWZW\012XOXQXCXDXGXAXJXKXLXMXNXPXRXSXTXUXVXWXXXYXZX\012YOYQYCYDYGYAYJYKYLYMYNYPYRYSYTYUYVYWYXYYYZY\012SOSQSCSDSGASJSXSVSWSY\012\012PA PO PC PG \012LO LC LG LS LU  LA LS LT LV LW LX LY \012RO RC RG RS RU RA RT RV RW RX RY\012KO KC KG KS KU KA KT KV KW KX KY\012\012nha/a.alt nbncnqdnenfngtnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012oaobocodoeofogodohoiojokolomonooopoqorosotouovowoxoyozo\012eaebecedeeefegeheiejekelemeneoepeqereseteuevewexeyeze\012fafbffofcfdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzf\012sasbscsdsesfsgshsisjskslsmsnsospsqsrssstsusvswsxsyszs\012vavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvvwvxvyvzv\012wawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwvwwwxwywzw\012xaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxxyxzx\012\012ka kc kd ke kj ko kq ks ku \012ra rc rd re rj ro rq rs ru\012\012Po Pc Pe Pd Pq Pn Pm Pa Pj Pp Pr Ps Pt Pu Pv Pw Px Py Pz\012Fo Fe Fó Wo AVATAR AWAR\012Lo Lc Le Ld Lq Ln Lm La Lj Lp Lr Ls Lt Lu Lv Lw Lx Ly Lz\012Ko Kc Ke Kd Kq Kn Km Ka Kj Kp Kr Ks Kt Ku Kv Kw Kx Ky Kz\012Ro Rc Re Rd Rq Rn Rm Ra Rj Rp Rr Rs Rt Ru Rv Rw Rx Ry Rz\012To Tc Te Td Tq Tg Tn Tm Ta Tj Tp Tr Ts Tt Tu Tv Tw Tx Ty Tz\012Xo Xc Xe Xd Xq Xg Xn Xm Xa Xj Xp Xr Xs Xt Xu Xv Xw Xx Xy Xz\012Yo Yc Ye Yd Yq Yg Yn Ym Ya Yj Yp Yr Ys Yt Yu Yv Yw Yx Yy Yz\012Vo Vc Ve Vd Vq Vg Vn Vm Va Vj Vp Vr Vs Vt Vu Vv Vw Vx Vy Vz\012Wo Wc We Wd Wq Wg Wn Wm Wa Wj Wp Wr Ws Wt Wu Wv Ww Wx Wy Wz",
+"ABCDEFGHIJKLMNOPQHRSTUVWXYZ\012H1H2HH3HH4HH5HH6HH7HH8HH9HH0HH2180 3215 2438 2761 2568 23 241 29\012HH$HO$OO HH$1HH HH$2HH HH$3HH HH$4HH HH$5HH HH$6HH HH$7HH HH$8HH Hij9HH HH$0HH\012ABCDEFGHHIJKLMNOPQRSTUVWXYZ\012HH1H2H3HH4HH5HH6HH7HH8HH9HH0HH2180 3215 2438 14718 2761 2568 23 2141 7239 7428\012HHHHHHHHOHHOHOOOO\012OOOOOOO\012HHHAHOAOO H-H-A-H Atado\012HHBHOBOO feo ACME fósfoto\012HHCHOCOO C-C Cómodo CATARRO\012HHDHODOO HH-HH Dorado ATAME\012HHEHOEOO H-E-H MUR\012HHFHOFOO FÓSFORO HF-H Fa Fe Fu\012HHGHOGOO Tyson av va nn nn\012HHIHOIOO HOLOGRAMA Lamana\012HHJHOJOO Jamon Jonma Jumin\012HHKHOKOO HK-H Ka Ko Ku KQ\012HHLHOLOO La Lu ojon HHMHOMOO ATAN ATMÓSFERA ATOMO AMTO TOTO Pnoáramo\012HHNHONOO Fa Fármaco ALWAYS\012HHPHOPOO HP-H-H Palo Pel Po\012HHQHOQOO H. H, P. F. V. T. W. Y. A?\012P, P. P; F, F; P: P/ellipsis  V, V; W, T, O, O. Y,\012HHRHOROO ARQUOEO HR-H n. o.\012HHSHHOSOO ASUSELO H-S-H\012HHTHOTOO TOTO ALTO ALURO HHJUAR Ta Tomate WONDER\012HHUHOUOO ASADERO AFANADOR\012HHAHHOOAOO\012HHHVHOVOO H-V/emdash H ALWAYS ATADURA Va Voltaje Volumen Ve Vulcano KOLMA Mo\012HHWHOWOO H/endash W/emdash H Walk We Wã OVOIDE AVARO RaRoma AWAY AMAYA HAYACA\012AWARNESS OWO OWNER ALVARO AMAYA HHHH\012HHYHOYOO H-H-Y-HPVCZHOZOO H-Z-H\012HHZHHOZOO Za Zu  OVO HHSHOSOO\012VlVlANA MONSALVE HAMACA HAN HENCHO DAÑO BOAO HHAHOAOO\012HHVHOVOO\012CLASSIC COMIC CAPER COMIC",
 "!?¿",
 "E/ogonekcomb/Eogonek"
 );
@@ -18492,7 +18492,7 @@ layerId = "F23DAC85-E1F4-41E5-A1F6-3C6652F1C9C3";
 width = 600;
 }
 );
-leftKerningGroup = g;
+leftKerningGroup = o;
 leftMetricsKey = o;
 rightKerningGroup = g;
 unicode = 0067;
@@ -18540,7 +18540,7 @@ layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
 width = 541;
 }
 );
-leftKerningGroup = g;
+leftKerningGroup = o;
 rightKerningGroup = g;
 unicode = 011F;
 },
@@ -18587,7 +18587,7 @@ layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
 width = 541;
 }
 );
-leftKerningGroup = g;
+leftKerningGroup = o;
 rightKerningGroup = g;
 unicode = 01E7;
 },
@@ -18634,7 +18634,7 @@ layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
 width = 541;
 }
 );
-leftKerningGroup = g;
+leftKerningGroup = o;
 rightKerningGroup = g;
 unicode = 011D;
 },
@@ -18681,7 +18681,7 @@ layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
 width = 541;
 }
 );
-leftKerningGroup = g;
+leftKerningGroup = o;
 rightKerningGroup = g;
 unicode = 0123;
 },
@@ -18728,7 +18728,7 @@ layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
 width = 541;
 }
 );
-leftKerningGroup = g;
+leftKerningGroup = o;
 rightKerningGroup = g;
 unicode = 0121;
 },
@@ -23780,7 +23780,7 @@ layerId = "D914797A-3AA2-414A-97FF-76DB3D2D1007";
 width = 600;
 }
 );
-leftKerningGroup = p;
+leftKerningGroup = n;
 leftMetricsKey = n;
 rightKerningGroup = o;
 rightMetricsKey = o;
@@ -36136,7 +36136,7 @@ glyphname = space;
 layers = (
 {
 layerId = "083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4";
-width = 160;
+width = 240;
 },
 {
 layerId = "1A280FA7-9E72-4FC3-84C1-49B7BD56B269";
@@ -51636,9 +51636,9 @@ kerning = {
 "@MMK_L_A" = {
 "@MMK_R_I" = -20;
 "@MMK_R_O" = -20;
-"@MMK_R_T" = -60;
+"@MMK_R_T" = -80;
 "@MMK_R_V" = -60;
-"@MMK_R_Y" = -60;
+"@MMK_R_Y" = -86;
 "@MMK_R_v" = -20;
 "@MMK_R_y" = 0;
 };
@@ -51647,6 +51647,7 @@ kerning = {
 "@MMK_R_a" = -50;
 "@MMK_R_o" = -30;
 "@MMK_R_period" = -100;
+"@MMK_R_u" = -20;
 };
 "@MMK_L_J" = {
 "@MMK_R_A" = -20;
@@ -51663,29 +51664,38 @@ kerning = {
 "@MMK_R_Y" = -120;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = -70;
+"@MMK_R_A" = -32;
+"@MMK_R_T" = -14;
 "@MMK_R_V" = -20;
 "@MMK_R_Y" = -40;
+"@MMK_R_period" = 0;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -40;
+"@MMK_R_a" = -30;
+"@MMK_R_n" = -12;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -120;
+colon = -30;
+semicolon = -30;
 };
 "@MMK_L_R" = {
 "@MMK_R_Y" = -40;
 "@MMK_R_o" = -20;
 };
 "@MMK_L_T" = {
-"@MMK_R_A" = -60;
+"@MMK_R_A" = -75;
 "@MMK_R_J" = -80;
+"@MMK_R_O" = -14;
 "@MMK_R_a" = -80;
 "@MMK_R_j" = -40;
+"@MMK_R_n" = -40;
 "@MMK_R_o" = -80;
-"@MMK_R_period" = -60;
+"@MMK_R_period" = -70;
 "@MMK_R_r" = -40;
 "@MMK_R_s" = -40;
 "@MMK_R_u" = -40;
+"@MMK_R_v" = -30;
 };
 "@MMK_L_V" = {
 "@MMK_R_A" = -60;
@@ -51702,11 +51712,13 @@ kerning = {
 "@MMK_R_z" = -20;
 };
 "@MMK_L_Y" = {
-"@MMK_R_A" = -80;
+"@MMK_R_A" = -83;
 "@MMK_R_J" = -80;
 "@MMK_R_O" = -40;
+"@MMK_R_S" = -16;
 "@MMK_R_a" = -80;
 "@MMK_R_g" = -80;
+"@MMK_R_hyphen" = -60;
 "@MMK_R_n" = -60;
 "@MMK_R_o" = -80;
 "@MMK_R_p" = -60;
@@ -51714,46 +51726,53 @@ kerning = {
 "@MMK_R_s" = -80;
 "@MMK_R_u" = -50;
 };
+"@MMK_L_bracketleft" = {
+"@MMK_R_j" = 60;
+};
+"@MMK_L_dollar" = {
+"@MMK_R_nine" = -10;
+};
 "@MMK_L_e" = {
 "@MMK_R_j" = -40;
 };
 "@MMK_L_f" = {
 "@MMK_R_a" = -40;
+"@MMK_R_asterisk" = 50;
 "@MMK_R_f" = -40;
 "@MMK_R_g" = -40;
 "@MMK_R_j" = -40;
 "@MMK_R_l" = -10;
 "@MMK_R_o" = -30;
-"@MMK_R_quoteleft" = 50;
-"@MMK_R_asterisk" = 50;
 "@MMK_R_parenright" = 50;
 "@MMK_R_question" = 40;
+"@MMK_R_quoteleft" = 50;
 };
 "@MMK_L_four" = {
 "@MMK_R_seven" = -20;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_Y" = -60;
 };
 "@MMK_L_i" = {
 "@MMK_R_j" = -60;
 };
 "@MMK_L_o" = {
-"@MMK_R_j" = -40;
+"@MMK_R_j" = -43;
 "@MMK_R_v" = -20;
 "@MMK_R_y" = -20;
 };
 "@MMK_L_r" = {
-"@MMK_R_a" = -30;
+"@MMK_R_a" = -10;
 "@MMK_R_j" = -40;
 "@MMK_R_o" = -30;
 "@MMK_R_y" = 0;
 };
 "@MMK_L_v" = {
 "@MMK_R_o" = -20;
+"@MMK_R_space" = -10;
 };
 "@MMK_L_y" = {
 "@MMK_R_o" = -20;
-};
-"@MMK_L_bracketleft" = {
-"@MMK_R_j" = 60;
 };
 };
 "083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4" = {
@@ -51766,7 +51785,7 @@ kerning = {
 "@MMK_R_O" = -20;
 "@MMK_R_T" = -60;
 "@MMK_R_V" = -60;
-"@MMK_R_Y" = -60;
+"@MMK_R_Y" = -100;
 "@MMK_R_v" = -20;
 "@MMK_R_y" = 0;
 };
@@ -51775,6 +51794,7 @@ kerning = {
 "@MMK_R_a" = -50;
 "@MMK_R_o" = -50;
 "@MMK_R_period" = -100;
+"@MMK_R_u" = -20;
 };
 "@MMK_L_J" = {
 "@MMK_R_A" = -20;
@@ -51791,14 +51811,20 @@ kerning = {
 "@MMK_R_Y" = -120;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = -70;
+"@MMK_R_A" = -30;
+"@MMK_R_T" = -14;
 "@MMK_R_V" = -20;
 "@MMK_R_Y" = -40;
+"@MMK_R_period" = -10;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -40;
+"@MMK_R_a" = -30;
+"@MMK_R_n" = -14;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -120;
+colon = -50;
+semicolon = -50;
 };
 "@MMK_L_R" = {
 "@MMK_R_Y" = -40;
@@ -51807,13 +51833,16 @@ kerning = {
 "@MMK_L_T" = {
 "@MMK_R_A" = -60;
 "@MMK_R_J" = -80;
+"@MMK_R_O" = -14;
 "@MMK_R_a" = -80;
 "@MMK_R_j" = -40;
+"@MMK_R_n" = -50;
 "@MMK_R_o" = -80;
-"@MMK_R_period" = -60;
+"@MMK_R_period" = -70;
 "@MMK_R_r" = -40;
 "@MMK_R_s" = -40;
 "@MMK_R_u" = -40;
+"@MMK_R_v" = -30;
 };
 "@MMK_L_V" = {
 "@MMK_R_A" = -60;
@@ -51830,11 +51859,13 @@ kerning = {
 "@MMK_R_z" = -20;
 };
 "@MMK_L_Y" = {
-"@MMK_R_A" = -80;
+"@MMK_R_A" = -90;
 "@MMK_R_J" = -80;
 "@MMK_R_O" = -40;
+"@MMK_R_S" = -20;
 "@MMK_R_a" = -80;
 "@MMK_R_g" = -80;
+"@MMK_R_hyphen" = -60;
 "@MMK_R_n" = -60;
 "@MMK_R_o" = -100;
 "@MMK_R_p" = -60;
@@ -51842,29 +51873,38 @@ kerning = {
 "@MMK_R_s" = -80;
 "@MMK_R_u" = -50;
 };
+"@MMK_L_bracketleft" = {
+"@MMK_R_j" = 60;
+};
+"@MMK_L_dollar" = {
+"@MMK_R_nine" = 0;
+};
 "@MMK_L_e" = {
 "@MMK_R_j" = -40;
 };
 "@MMK_L_f" = {
 "@MMK_R_a" = -40;
+"@MMK_R_asterisk" = 50;
 "@MMK_R_f" = -42;
 "@MMK_R_g" = -20;
 "@MMK_R_j" = -40;
 "@MMK_R_l" = -20;
 "@MMK_R_o" = -30;
-"@MMK_R_quoteleft" = 60;
-"@MMK_R_asterisk" = 50;
 "@MMK_R_parenright" = 50;
 "@MMK_R_question" = 40;
+"@MMK_R_quoteleft" = 60;
 };
 "@MMK_L_four" = {
 "@MMK_R_seven" = -20;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_Y" = -60;
 };
 "@MMK_L_i" = {
 "@MMK_R_j" = -60;
 };
 "@MMK_L_o" = {
-"@MMK_R_j" = -40;
+"@MMK_R_j" = -46;
 "@MMK_R_v" = -20;
 "@MMK_R_y" = -20;
 };
@@ -51876,12 +51916,10 @@ kerning = {
 };
 "@MMK_L_v" = {
 "@MMK_R_o" = -20;
+"@MMK_R_space" = -20;
 };
 "@MMK_L_y" = {
 "@MMK_R_o" = -20;
-};
-"@MMK_L_bracketleft" = {
-"@MMK_R_j" = 60;
 };
 };
 "1A280FA7-9E72-4FC3-84C1-49B7BD56B269" = {
@@ -51894,7 +51932,7 @@ kerning = {
 "@MMK_R_O" = -20;
 "@MMK_R_T" = -60;
 "@MMK_R_V" = -60;
-"@MMK_R_Y" = -60;
+"@MMK_R_Y" = -100;
 "@MMK_R_v" = -20;
 "@MMK_R_y" = 0;
 };
@@ -51903,6 +51941,7 @@ kerning = {
 "@MMK_R_a" = -50;
 "@MMK_R_o" = -60;
 "@MMK_R_period" = -100;
+"@MMK_R_u" = -30;
 };
 "@MMK_L_J" = {
 "@MMK_R_A" = -20;
@@ -51920,13 +51959,19 @@ kerning = {
 };
 "@MMK_L_O" = {
 "@MMK_R_A" = -70;
+"@MMK_R_T" = -20;
 "@MMK_R_V" = -20;
 "@MMK_R_Y" = -40;
+"@MMK_R_period" = -20;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -40;
+"@MMK_R_a" = -30;
+"@MMK_R_n" = -18;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -120;
+colon = -60;
+semicolon = -60;
 };
 "@MMK_L_R" = {
 "@MMK_R_Y" = -40;
@@ -51935,13 +51980,16 @@ kerning = {
 "@MMK_L_T" = {
 "@MMK_R_A" = -60;
 "@MMK_R_J" = -80;
+"@MMK_R_O" = -20;
 "@MMK_R_a" = -80;
 "@MMK_R_j" = -40;
+"@MMK_R_n" = -80;
 "@MMK_R_o" = -80;
-"@MMK_R_period" = -60;
+"@MMK_R_period" = -80;
 "@MMK_R_r" = -40;
 "@MMK_R_s" = -40;
 "@MMK_R_u" = -40;
+"@MMK_R_v" = -30;
 };
 "@MMK_L_V" = {
 "@MMK_R_A" = -60;
@@ -51958,11 +52006,13 @@ kerning = {
 "@MMK_R_z" = -20;
 };
 "@MMK_L_Y" = {
-"@MMK_R_A" = -80;
+"@MMK_R_A" = -100;
 "@MMK_R_J" = -80;
 "@MMK_R_O" = -40;
+"@MMK_R_S" = -20;
 "@MMK_R_a" = -80;
 "@MMK_R_g" = -80;
+"@MMK_R_hyphen" = -90;
 "@MMK_R_n" = -80;
 "@MMK_R_o" = -120;
 "@MMK_R_p" = -80;
@@ -51970,23 +52020,32 @@ kerning = {
 "@MMK_R_s" = -80;
 "@MMK_R_u" = -50;
 };
+"@MMK_L_bracketleft" = {
+"@MMK_R_j" = 60;
+};
+"@MMK_L_dollar" = {
+"@MMK_R_nine" = 0;
+};
 "@MMK_L_e" = {
 "@MMK_R_j" = -40;
 };
 "@MMK_L_f" = {
 "@MMK_R_a" = -40;
+"@MMK_R_asterisk" = 50;
 "@MMK_R_f" = -120;
 "@MMK_R_g" = -20;
 "@MMK_R_j" = -40;
 "@MMK_R_l" = -10;
 "@MMK_R_o" = -40;
-"@MMK_R_quoteleft" = 50;
-"@MMK_R_asterisk" = 50;
 "@MMK_R_parenright" = 50;
 "@MMK_R_question" = 40;
+"@MMK_R_quoteleft" = 50;
 };
 "@MMK_L_four" = {
 "@MMK_R_seven" = -20;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_Y" = -90;
 };
 "@MMK_L_i" = {
 "@MMK_R_j" = -50;
@@ -52004,12 +52063,10 @@ kerning = {
 };
 "@MMK_L_v" = {
 "@MMK_R_o" = -20;
+"@MMK_R_space" = -30;
 };
 "@MMK_L_y" = {
 "@MMK_R_o" = -20;
-};
-"@MMK_L_bracketleft" = {
-"@MMK_R_j" = 60;
 };
 };
 };
