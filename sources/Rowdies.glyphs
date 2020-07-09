@@ -1,15 +1,12 @@
 {
-.appVersion = "1286";
+.appVersion = "1272";
 DisplayStrings = (
 "ROWDIES\012Rowdies\012\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789\012¶&/a.alt/fi/fl/f_f/f_f_i/f_f_l/f_ij/f_f_ij \012¦«/guilsinglleft +/guilsinglright »=/minus ×÷/radical <//>/backslash %.,?!¿¡/ellipsis \012ÁÆ/OE ÇÐÞØ/Schwa/Germandbls/Nhookleft/Eng \012äæ/oe çðþoø/schwa/idotless/jdotless/kgreenlandic ß/nhookleft/eng µ/mu \012§/.notdef |¦/dagger/daggerdbl [{()}] @/circle ©'*/trademark ®\012/lozenge/summation/product/integral/Delta/pi/Omega/partialdiff/literSign \012/divisionslash/fraction  ¾-/endash/emdash _¬\012$¢/florin/rupeeIndian ¥£/euro ¤/lira/naira/franc/won/peso/cedi/guarani/colonmonetary/ruble/peseta/dong/manat/kip/liraTurkish \012\012\"':;^_`~¨©ª¬®¯°±²³´µ¶·¸¹º/four.dnom ¼½¾¿\012ÀÁÂÃÄÅÆÈÉËÌÍÎÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéê/acutecomb íî ï ðñòóôõöøùúûüýþ/ydieresis/idotless/circumflex/ring/tilde/quoteleft/quoteright/quotesinglbase/quotedblleft/quotedblright/quotedblbase  /bullet/ellipsis \012\012THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\012the quick brown fox jumps over the lazy dog\012\012Spacing\012HOVK onvai\012nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012HTHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH0102030405060708090\012",
 "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\012the quick brown fox jumps over the lazy dog\012Spacing\012nanbncnAyenfngtnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\0120102030405060708090\012lower case//lower case\012aufkauf aufhalt aufbleib\012ver/fl ixt auflassen \012ho/f_f e auffassen\012/fi le aufißt raufjagen f/idotless ne\012auf/fi nden Tief/fl ieger\012Sto/f_f los Mu/f_f on Sto/f_f igel O/f_f zier\012Ra/f_f band Tu/f_f höhle Su/f_f kopp \012führen fo/dieresiscomb öfordern fähre\012wegjagen Bargfeld\012kyrie afro arte axe luvwärts\012Gevatter wann \012ever gewettet severe\012davon gewonnen down\012wichtig recken\012ndn/dcroat hijo/dcaron h\012/lcaron l /lcaron o dl/lslash ijijVersal//Kleinbuchstaben\012Farbe Fest Firn Fjord Font\012Frau Fuß Fähre Förde Füße\012Rest Rohr Röhre Rymer\012Test Tod Tauf Tim Tja Turm\012Traum Tsara Twist Tyrol\012Tüte Töten Täter TéTêTèVeste Vogel VéVêVèVater Vijf Vlut Vulkan\012Vytautas Vroni Väter Vögel Vs Ws Vz Wz\012Weste Wolf Wüste Wörpe Wärter Waage Wiege Wlasta\012Wurst Wyhl Wrasen\012Yeats Yoni auf Yqem Yn\012Yak Ybbs Yggdrasil Yps\012Ysop Ytong Yuma\012Versal//Versal\012ATK AVI AWL AYN LTK\012LVI LWL LYN /Lcaron V /Lcaron TH\012RTK TVI RWL RYN\012TABULA VATER WASSER\012YAKUZA FABEL PAPST\012UNÐE H/Dcroat \012letter//punctuation\012Ich rufe: also komm; danke\012Somit: haben wir; hinauf: das\012Er will? Ich soll! Er kann\012hinauf! herauf? Su/f_f ? Ka/f_f !\012¿Spanisch? ¡Natürlich!\012was?! wie!? was!! wie??\012Wer kann, kann. Wer, der.\012Sauf, rauf. Su/f_f , Ka/f_f . Sag, sag.\012luv. law. my. luv, law, my,\012(DAT) (fünf) (young) (/fl u/f_f )\012(lall) (pas cinq) (gaz) (§)\012(jagen) (Jedermann)\012[greif] [jung] [JUT] [hohl]\012reif/quotedblleft  ruf/quoteleft  seif/quotedblleft  auf*  ho/f_f/quotedblleft \012T. S. Eliot L., W. Dupont\012V. K. Smith P. A. Meier\012A. Y. Jones F. R. Miller\012X. ä. Schulze\012quotation mark\012/guilsinglleft/guilsinglright «»/quotedblbase/quotedblleft/quotedblright/quotesinglbase/quoteleft/quoteright \012«habe recht» «die»\012»Wir« »Tim« »Viel« »Ybbs«\012«Wir» «Tim» «Viel» «Ybbs»\012»OUT« »MIV« »JAW« »AY«\012«OUT» «MIV» «JAW» «AY»\012/guilsinglright OUT/guilsinglleft  /guilsinglright MIV/guilsinglleft  /guilsinglright JAW/guilsinglleft  /guilsinglright AY/guilsinglleft \012/guilsinglleft OUT/guilsinglright  /guilsinglleft MIV/guilsinglright  /guilsinglleft JAW/guilsinglright  /guilsinglleft AY/guilsinglright \012/quotesinglbase ja/quoteleft  /quotesinglbase Ja/quoteleft  /quotedblbase ja/quotedblleft  /quotedblbase Ja/quotedblleft  /quoteright/quotesinglbase ga/quoteleft   /quotedblbase ga/quotedblleft \012/quotedblbase Tag/quotedblleft  /quotedblbase Vau/quotedblleft  /quotedblbase Wal/quotedblleft  /quotedblbase Yep/quotedblleft \012/quotesinglbase Tag/quoteleft  /quotesinglbase Vau/quoteleft  /quotesinglbase Wal/quoteleft  /quotesinglbase Yep/quoteleft \012/quotedblleft Bus/quotedblright  /quotedblleft Van/quotedblright  /quotedblleft Jon/quotedblright  /quotedblleft lone/quotedblright  /quotedblleft Al/quotedblright \012/quoteleft Bus/quotedblleft  /quoteleft Van/quotedblleft  /quoteleft Jon/quotedblleft  /quoteright/quoteleft lone/quotedblleft  /quoteleft Al/quotedblleft \012»/endash  bei /endash « »/emdash  und /emdash «/guilsinglright/endash  bei /endash/guilsinglleft  /guilsinglright/emdash  und /emdash/guilsinglleft \012«/endash  bei /endash » «/emdash  und /emdash »/guilsinglleft/endash  bei /endash/guilsinglright  /guilsinglleft/emdash  und /emdash/guilsinglright \012punctuation mark\012sic (!) ..., nun (?) ... da\012hinauf ...,; dahin ...:\012hinauf ...! hin ...? Toll/quotedblleft , leg/quotedblleft .\012nun (...) und ([...] sein\012»sie«. »das«, »an«; »ich«:\012«sie». «das», «an»; «ich»:\012»sie.« »das,« »an!« »ich?«\012«sie.» «das,» «an!» «ich?»\012/guilsinglright sie/guilsinglleft . /guilsinglright da/guilsinglleft , /guilsinglright an/guilsinglleft ; /guilsinglright ich/guilsinglleft : \012/guilsinglleft sie/guilsinglright . /guilsinglleft das/guilsinglright , /guilsinglleft an/guilsinglright ,; /guilsinglleft ich/guilsinglright :\012/guilsinglright sie./guilsinglleft  /guilsinglright das,/guilsinglleft  /guilsinglright an!/guilsinglleft  /guilsinglright ich?/guilsinglleft \012/guilsinglleft sie./guilsinglright  /guilsinglleft das,/guilsinglright  /guilsinglleft an!/guilsinglright  /guilsinglleft ich?/guilsinglright \012Mir!, das?, Ich!: Sie?:\012Mir!; das?; (»sie«) (/guilsinglright sie/guilsinglleft )\012nun /endash , hier /endash .60 nun /endash : hier /endash ;\012Eil-Tat-Van-Wal-Alk-\012auf 48/endash 67 und 25/emdash 37 von\012if/endash then well/emdash sure\012USA//Kanada SWF//Abend\012Gauß//Ohm 41//56 den//die\012auf//fall den//im den//ärger\012da//leider auf//aber I//I\012etwa 50% haben 37° im\012£50 und ¥20 sind $30 und /euro 60\012den §235 sowie #35 \0124mal Seite 3f und 12/f_f .\012Der §45a in den 20ern\012figures\01200102030405060708090\01210112131415161718191\01220212232425262728292\01230313233435363738393\01240414243445464748494\01250515253545565758595\01260616263646566768696\01270717273747576778797\01280818283848586878898\01290919293949596979899\012.0.0.1.1.2.2.3.3.4.4.5.5.6.6.7.7.8.8.9.9.\012,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,\012:0:0:1:1:2:2:3:3:4:4:5:5:6:6:7:7:8:8:9:9:\012;0;0;1;1;2;2;3;3;4;4;5;5;6;6;7;7;8;8;9;9;\012von 18:30 bis 20.:15 Uhr\012um 1995 die 28184 und\012und 8.8 und 8,8 da 8./endash 8.\012da 27. es 38. an 87, in 68, 674\012(96) (3) (5) (7) [96] [3 [5 [7\0122+3-4÷5-6±/greaterequal/lessequal ><\012(c) Friedrich Forssman",
 "AxoxcTXOXOXOXOXOXO\012\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\012AOACADAGATAUAVAWAXAYA\012GAGBGCGDGJGKGLGOGPGQGRGSGTGUGVGWGXGYG\012OAOBOCODOGOKOLOOOPOQOROSOTOUOVOWOXOYOZO\012TOTQTCTDTGTATJT\012VOVQVCVDVGVAVJVKVLVMVNVPVRVSVTVUVVVWVXVYVZV\012WOWQWCWDWGWAWJWKWLWMWNWPWRWSWTWWWXWYWZW\012XOXQXCXDXGXAXJXKXLXMXNXPXRXSXTXUXVXWXXXYXZX\012YOYQYCYDYGYAYJYKYLYMYNYPYRYSYTYUYVYWYXYYYZY\012SOSQSCSDSGASJSXSVSWSY\012\012PA PO PC PG \012LO LC LG LS LU  LA LS LT LV LW LX LY \012RO RC RG RS RU RA RT RV RW RX RY\012KO KC KG KS KU KA KT KV KW KX KY\012\012nha/a.alt nbncnqdnenfngtnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012oaobocodoeofogodohoiojokolomonooopoqorosotouovowoxoyozo\012eaebecedeeefegeheiejekelemeneoepeqereseteuevewexeyeze\012fafbffofcfdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzf\012sasbscsdsesfsgshsisjskslsmsnsospsqsrssstsusvswsxsyszs\012vavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvvwvxvyvzv\012wawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwvwwwxwywzw\012xaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxxyxzx\012\012ka kc kd ke kj ko kq ks ku \012ra rc rd re rj ro rq rs ru\012\012Po Pc Pe Pd Pq Pn Pm Pa Pj Pp Pr Ps Pt Pu Pv Pw Px Py Pz\012Fo Fe Fó Wo AVATAR AWAR\012Lo Lc Le Ld Lq Ln Lm La Lj Lp Lr Ls Lt Lu Lv Lw Lx Ly Lz\012Ko Kc Ke Kd Kq Kn Km Ka Kj Kp Kr Ks Kt Ku Kv Kw Kx Ky Kz\012Ro Rc Re Rd Rq Rn Rm Ra Rj Rp Rr Rs Rt Ru Rv Rw Rx Ry Rz\012To Tc Te Td Tq Tg Tn Tm Ta Tj Tp Tr Ts Tt Tu Tv Tw Tx Ty Tz\012Xo Xc Xe Xd Xq Xg Xn Xm Xa Xj Xp Xr Xs Xt Xu Xv Xw Xx Xy Xz\012Yo Yc Ye Yd Yq Yg Yn Ym Ya Yj Yp Yr Ys Yt Yu Yv Yw Yx Yy Yz\012Vo Vc Ve Vd Vq Vg Vn Vm Va Vj Vp Vr Vs Vt Vu Vv Vw Vx Vy Vz\012Wo Wc We Wd Wq Wg Wn Wm Wa Wj Wp Wr Ws Wt Wu Wv Ww Wx Wy Wz",
 "ABCDEFGHIJKLMNOPQHRSTUVWXYZ\012H1H2HH3HH4HH5HH6HH7HH8HH9HH0HH2180 3215 2438 2761 2568 23 241 29\012HH$HO$OO HH$1HH HH$2HH HH$3HH HH$4HH HH$5HH HH$6HH HH$7HH HH$8HH Hij9HH HH$0HH\012ABCDEFGHHIJKLMNOPQRSTUVWXYZ\012HH1H2H3HH4HH5HH6HH7HH8HH9HH0HH2180 3215 2438 14718 2761 2568 23 2141 7239 7428\012HHHHHHHHOHHOHOOOO\012OOOOOOO\012HHHAHOAOO H-H-A-H Atado\012HHBHOBOO feo ACME fósfoto\012HHCHOCOO C-C Cómodo CATARRO\012HHDHODOO HH-HH Dorado ATAME\012HHEHOEOO H-PH MUR ZH\012HHFHOFOO FÓSFORO HF-H Fa Fe Fu\012HHGHOGOO Tyson av va nn nn\012HHIHOIOO HOLOGRAMA Lamana\012HHJHOJOO Jamon Jonma Jumin\012HHKHOKOO HK-H Ka Ko Ku KQ\012HHLHOLOO La Lu ojon HHMHOMOO ATAN ATMÓSFERA ATOMO AMTO TOTO Pnoáramo Quinnoa nnnuu ooo apanlhnn arjona nnenema nnenoeoo onomatopella\012HHNHONOO Fa Fármaco ALWAYS\012HHPHOPOO HP-H-H Palo Puel Poro\012HHQHOQOO H. H, P. F. V. T. W. Y. A?\012P, P. P; F, F; P: P/ellipsis  V, V; W, T, O, O. Y,\012HHRHOROO ARQUOEO HR-H n. o.\012HH/Placeholder HO/Placeholder OO ASUSELO H-S-H\012QUCIK WAFTING ZEPHIRS VEX BOLD JIM\012HHTHOTOO TOTO ALTO ALURO HHJUAR Ta Tomate WONDER FOHH\012HHUHOUOO ASADERO AFANADOR\012HHAHHOOAOO Dumplin\012ng dive queso \012HHHVHOVOO H-V/emdash H ALWAYS nnfnofoo\012 mfambo ATADURA Va Voltaje Volumen Ve Vulcano KOLMA Mo\012HHWHOWOO H/endash W/emdash H Walk We Wã OVOIDE AVARO RaRoma AWAY AMAYA HAYACA\012AWARNESS OWO OWNER ALVARO AMAYA HHHH\012HHYHOYOO H-H-Y-HPVCZHOZOO H-Z-H\012HHZHHOZOO Za Zu  OVO HHSHOSOO\012VlVlANA MONSALVE HAMACA HAN HENCHO DAÑO BOAO HHAHOAOO\012HHVHOVOO\012CLASSIC COMIC CAPER COMIC",
 "HH/Placeholder HO/Placeholder OO\012AOAORROWROOTO FLOW BARLEY CHERVIL DUMPLING ENDIVE FLAGXSEED GARBANZO HIJIKI ISHTU JICAMA KALE LYCHEE HOYO MARJORAM NECTARINE OXTAIL PIZZA QUINOA ROQUEFORT SQUASH TOFU UPPUMA VANILLA WHEAT XERGIS OXO YOGURT ZWEIBACK 0 1 2 3 4 5 6 7 8 9 ! ?",
-"E/ogonekcomb/Eogonek",
-"/DZ",
-"/numero",
-"/oe/zero.zero/cedi ¤$/liraTurkish/manat"
+"/apostrophemod/Lcaron/lcaron/dcaron/apostrophemod/tcaron"
 );
 copyright = "Copyright 2018 The Rowdies Project Authors (https://github.com/magictype/rowdies)";
 customParameters = (
@@ -6462,8 +6459,8 @@ components = (
 name = L;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 600, 232}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 280, -38}";
 }
 );
 layerId = "083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4";
@@ -6475,8 +6472,8 @@ components = (
 name = L;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 506, 230}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 280, -38}";
 }
 );
 layerId = "1A280FA7-9E72-4FC3-84C1-49B7BD56B269";
@@ -6488,8 +6485,8 @@ components = (
 name = L;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 610, 232}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 280, -38}";
 }
 );
 layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
@@ -16748,8 +16745,8 @@ components = (
 name = d;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 469, 15}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 520, -38}";
 }
 );
 layerId = "083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4";
@@ -16761,8 +16758,8 @@ components = (
 name = d;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 434, 10}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 520, -38}";
 }
 );
 layerId = "1A280FA7-9E72-4FC3-84C1-49B7BD56B269";
@@ -16774,8 +16771,8 @@ components = (
 name = d;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 474, 10}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 480, -38}";
 }
 );
 layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
@@ -20931,8 +20928,8 @@ components = (
 name = l;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 457, 230}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 220, -38}";
 }
 );
 layerId = "083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4";
@@ -20944,8 +20941,8 @@ components = (
 name = l;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 467, 230}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 240, -38}";
 }
 );
 layerId = "1A280FA7-9E72-4FC3-84C1-49B7BD56B269";
@@ -20957,8 +20954,8 @@ components = (
 name = l;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 429, 230}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 180, -38}";
 }
 );
 layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
@@ -25563,8 +25560,8 @@ components = (
 name = t;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 511, 130}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 240, -38}";
 }
 );
 layerId = "083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4";
@@ -25576,8 +25573,8 @@ components = (
 name = t;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 530, 140}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 280, -38}";
 }
 );
 layerId = "1A280FA7-9E72-4FC3-84C1-49B7BD56B269";
@@ -25589,8 +25586,8 @@ components = (
 name = t;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 480, 140}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 200, -38}";
 }
 );
 layerId = "CA5CD7F6-F0E6-40F5-9716-481B35A0BC32";
@@ -47916,21 +47913,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"129 529 OFFCURVE",
-"200 577 OFFCURVE",
-"200 660 CURVE SMOOTH",
-"200 711 OFFCURVE",
+"120 534 OFFCURVE",
+"200 587 OFFCURVE",
+"200 670 CURVE SMOOTH",
+"200 721 OFFCURVE",
 "174 760 OFFCURVE",
-"110 760 CURVE SMOOTH",
-"70 760 OFFCURVE",
+"125 760 CURVE SMOOTH",
+"85 760 OFFCURVE",
 "58 735 OFFCURVE",
 "58 705 CURVE SMOOTH",
 "58 680 LINE",
-"99 680 OFFCURVE",
-"120 668 OFFCURVE",
-"120 631 CURVE SMOOTH",
-"120 594 OFFCURVE",
-"86 564 OFFCURVE",
+"120 651 LINE",
+"120 617 OFFCURVE",
+"87 574 OFFCURVE",
 "50 555 CURVE",
 "70 520 LINE"
 );
@@ -47944,21 +47939,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"135 523 OFFCURVE",
-"220 577 OFFCURVE",
-"220 660 CURVE SMOOTH",
-"220 711 OFFCURVE",
-"194 760 OFFCURVE",
-"130 760 CURVE SMOOTH",
+"130 532 OFFCURVE",
+"220 598 OFFCURVE",
+"220 675 CURVE SMOOTH",
+"220 726 OFFCURVE",
+"187 760 OFFCURVE",
+"135 760 CURVE SMOOTH",
 "90 760 OFFCURVE",
-"58 743 OFFCURVE",
-"58 705 CURVE SMOOTH",
+"58 733 OFFCURVE",
+"58 695 CURVE SMOOTH",
 "58 680 LINE",
-"90 680 OFFCURVE",
-"110 668 OFFCURVE",
-"110 631 CURVE SMOOTH",
-"110 594 OFFCURVE",
-"77 565 OFFCURVE",
+"120 641 LINE",
+"120 610 OFFCURVE",
+"86 575 OFFCURVE",
 "50 555 CURVE",
 "70 520 LINE"
 );
@@ -47972,21 +47965,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"112 537 OFFCURVE",
-"180 586 OFFCURVE",
-"180 670 CURVE SMOOTH",
-"180 718 OFFCURVE",
-"151 760 OFFCURVE",
-"100 760 CURVE SMOOTH",
-"76 760 OFFCURVE",
+"125 558 OFFCURVE",
+"180 611 OFFCURVE",
+"180 680 CURVE SMOOTH",
+"180 728 OFFCURVE",
+"153 760 OFFCURVE",
+"110 760 CURVE SMOOTH",
+"86 760 OFFCURVE",
 "58 745 OFFCURVE",
 "58 715 CURVE SMOOTH",
-"58 700 LINE",
-"102 700 OFFCURVE",
-"130 688 OFFCURVE",
-"130 651 CURVE SMOOTH",
-"130 598 OFFCURVE",
-"86 564 OFFCURVE",
+"58 690 LINE",
+"110 666 LINE",
+"110 623 OFFCURVE",
+"93 588 OFFCURVE",
 "50 555 CURVE",
 "64 530 LINE"
 );
